@@ -14,5 +14,5 @@ One of the main theorems we showcase in the poster is that in high dimensions al
 <p align="center">
   <img width="600" height="300" src=rate_conc_graph.png>
   <br></br>
-  <caption><b>Figure 2</b> The concentration eventually increases to 1 no matter how slow. I.e., the sphere contains almost all the volume of the cube. </caption>
+  <caption><b>Figure 2</b> The concentration eventually increases to 1 no matter how slow. <br> In other words, the sphere contains almost all the volume of the cube. </caption>
 </p>
