@@ -1,4 +1,4 @@
-## Concentration Phenomena in Asymptotic Geometry
+# Concentration Phenomena in Asymptotic Geometry
 A collection of code and visualisations related to the MATH40008 Poster Project on Concentration of Volume. 
 
 <details>
