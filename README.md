@@ -1,3 +1,5 @@
+dir='rtl'
+
 # Concentration of Volume
 A collection of code and visualisations related to the MATH40008 Poster Project on Concentration of Volume. 
 
