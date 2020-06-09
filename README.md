@@ -1,5 +1,5 @@
 # Concentration of Volume
-A collection of code and visualisation related to the MATH40008 Poster Project on Concentration of Volume. 
+A collection of code and visualisations related to the MATH40008 Poster Project on Concentration of Volume. 
 
 MATH40008 is a module all first year maths undergraduates at Imperial College London take after completing their summer exams. They are expected to construct a poster and give a presentation on a topic related to one of the five main topics provided by the department via independent research. Concentration of Volume falls under 'Law of Large Numbers and The Central Limit Theorem'.
 
