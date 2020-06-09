@@ -17,13 +17,13 @@ One of the main theorems we showcase in the poster is that in high dimensions al
 
 
 <p align="center">
-  <img width="600" height="300" src=hypercube_conc_hist.gif>
+  <img width="600" height="300" src=figures/hypercube_conc_hist.gif>
   <br></br>
   <caption><b>Figure 1</b> - For higher dimensions we can see that more and more of the volume of the cube falls inside the sphere.</caption>
 </p>
 
 <p align="center">
-  <img width="600" height="300" src=rate_conc_lgraph.png>
+  <img width="600" height="300" src=figures/rate_conc_lgraph.png>
   <br></br>
   <caption><b>Figure 2</b> - The concentration eventually increases to 1 no matter how slow. <br> In other words, the sphere contains almost all the volume of the cube. </caption>
 </p>
