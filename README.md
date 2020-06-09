@@ -8,5 +8,5 @@ MATH40008 is a module all first year maths undergraduates at Imperial College Lo
 </p>
 
 <p align="center">
-  <img width="600" height="200" src=rate_conc_graph.png>
+  <img width="600" height="300" src=rate_conc_graph.png>
 </p>
