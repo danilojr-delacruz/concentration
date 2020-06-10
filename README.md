@@ -15,8 +15,7 @@ A collection of code and visualisations related to the MATH40008 Poster Project 
 One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the n-Cube concentrates on an (n-1)-Sphere. Formally we want to show that
 
 <p align="center">
-  <img src="https://latex.codecogs.com/gif.latex?\forall \varepsilon > 0, \, \mathrm{Vol}\left( U_{n,\varepsilon}\cap[-1,1]^n\right)\rightarrow \mathrm{Vol}([-1,1]^n)" /> 
-  <img src="https://latex.codecogs.com/gif.latex?U_{n,\varepsilon} := \left\{x: (1-\varepsilon)\sqrt{n/3}<\|x\|<(1+\varepsilon)\sqrt{n/3}\right\})" /> 
+  <img width = "600", height = "300", src="https://latex.codecogs.com/gif.latex?\forall \varepsilon > 0, \, \mathrm{Vol}\left( U_{n,\varepsilon}\cap[-1,1]^n\right)\rightarrow \mathrm{Vol}([-1,1]^n)" /> 
   
 </p>
  
