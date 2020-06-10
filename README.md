@@ -12,7 +12,7 @@ A collection of code and visualisations related to the MATH40008 Poster Project 
 </details>
 
 <p align="justify">
-One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the <img src="https://latex.codecogs.com/gif.latex?n-\mathrm{Cube}"> concentrates on an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}-\mathrm{Sphere}">. Formally we want to show that
+One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the <img src="https://latex.codecogs.com/gif.latex?n-\mathrm{Cube}"> concentrates on an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}"><img src="https://latex.codecogs.com/gif.latex?\small{-\mathrm{Sphere}">. Formally we want to show that
 
 <p align="center">
   <img src="https://latex.codecogs.com/gif.latex?\forall&space;\varepsilon&space;>&space;0,&space;\,&space;\mathrm{Vol}\left(&space;U_{n,\varepsilon}\cap[-1,1]^n\right)\rightarrow&space;\mathrm{Vol}([-1,1]^n)">
