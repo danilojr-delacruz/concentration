@@ -11,10 +11,16 @@ A collection of code and visualisations related to the MATH40008 Poster Project 
 
 </details>
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { asdfsdafasdfasdfasdf} t " /> 
-
 <p align="justify">
-One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the n-Cube concentrates on an (n-1)-Sphere. The main idea is that in high dimensional cubes we can think of a point's coordinates as independent and identically distributed (i.i.d) random variables. In order for a point to lie at an extremity these random variables must all cooperate in the same direction. This is unlikely and the Law of Large Number stipulates that for large n this is impossible. Instead, the collective effort of these random variables will reflect their average. Geometrically speaking, this means points must exist a certain distance from the origin (a sphere in high dimensions). For more details see the poster and the proofs folder in this repository.
+One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the n-Cube concentrates on an (n-1)-Sphere. Formally we want to show that
+
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?\forall \varepsilon > 0, \, \mathrm{Vol}\left( U_{n,\varepsilon}\cap[-1,1]^n\right)\rightarrow \mathrm{Vol}([-1,1]^n)" /> 
+  <img src="https://latex.codecogs.com/gif.latex?U_{n,\varepsilon} := \left\{x: (1-\varepsilon)\sqrt{n/3}<\|x\|<(1+\varepsilon)\sqrt{n/3}\right\})" /> 
+  
+</p>
+ 
+The main idea is that in high dimensional cubes we can think of a point's coordinates as independent and identically distributed (i.i.d) random variables. In order for a point to lie at an extremity these random variables must all cooperate in the same direction. This is unlikely and the Law of Large Number stipulates that for large n this is impossible. Instead, the collective effort of these random variables will reflect their average. Geometrically speaking, this means points must exist a certain distance from the origin (a sphere in high dimensions). For more details see the poster and the proofs folder in this repository.
 </p>
 
 
