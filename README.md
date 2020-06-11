@@ -11,8 +11,23 @@ A collection of code and visualisations related to the MATH40008 Poster Project 
 
 </details>
 
+<details>
+<summary><b>What are Concentration Phenomena in Asymptotic Geometry?</b></summary>
+<br>
+  <p align="justify">
+  Asymptotic Geometry is when we look at what happens to geometric objects in very high dimensions. Concentration refers to the notion that almost all the volume of certain <img src="https://latex.codecogs.com/gif.latex?n">-dimensional regions cluster around an arbitrarily small <img src="https://latex.codecogs.com/gif.latex?\delta">-neighbourhood of an <img src="https://latex.codecogs.com/gif.latex?(n-1)">-dimensional region. We discuss two examples:
+    <ol>
+    <li>The volume of an asymptotic <img src="https://latex.codecogs.com/gif.latex?n">-Cube concentrates on its intersection with an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}">-Sphere.
+</li>
+    <li>The area of an asymptotic <img src="https://latex.codecogs.com/gif.latex?\small{n}-Sphere"> concentrates on its equators</li>.
+    </ol>
+    <hr>
+</p>
+
+</details>
+
 <p align="justify">
-One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the <img src="https://latex.codecogs.com/gif.latex?n-\mathrm{Cube}"> concentrates on an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)-\mathrm{Sphere}}">. Formally we want to show that
+One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the <img src="https://latex.codecogs.com/gif.latex?n">-Cube concentrates on an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}">-Sphere. Formally we want to show that
   
 </p>  
 
