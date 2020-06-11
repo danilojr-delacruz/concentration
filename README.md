@@ -57,3 +57,9 @@ The main idea is that in high dimensional cubes we can think of a point's coordi
   <br></br>
   <caption><b>Figure 2</b> - The concentration eventually increases to 1 no matter how slow. <br> In other words, the sphere contains almost all the volume of the cube. </caption>
 </p>
+
+<p align="center">
+  <img width="900" height="300" src=figures/cube-sphere%20in%20lower%20dimensions.PNG>
+  <br></br>
+  <caption><b>Figure 3</b> - In lower dimensions the sphere is inside the cube. For <img src="https://latex.codecogs.com/gif.latex?n\ge&space;4"> the radius of the sphere <img src="https://latex.codecogs.com/gif.latex?\sqrt{n/3}\ge&space;1"> and hence the sphere exceeds the boundaries of the cube. This is why we consider the intersection of the cube and sphere. </caption>
+</p>
