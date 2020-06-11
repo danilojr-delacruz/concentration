@@ -7,21 +7,21 @@ A collection of code and visualisations related to the MATH40008 Poster Project 
   <p align="justify">
   MATH40008 is a module all first year maths undergraduates at Imperial College London take after completing their summer exams. The department suggests topics and students choose one. For their chosen topic, they are expected to learn via independent research, construct a poster and give a presentation. 
     
-   Concentration of Volume falls under 'Law of Large Numbers and The Central Limit Theorem'.
+   'Concentration Phenomena in Asymptotic Geometry' falls under 'Law of Large Numbers and The Central Limit Theorem'.
     <hr>
 </p>
 
 </details>
 
 <details>
-<summary><b>What are Concentration Phenomena in Asymptotic Geometry?</b></summary>
+<summary><b>What are 'Concentration Phenomena in Asymptotic Geometry'?</b></summary>
 <br>
   <p align="justify">
   Asymptotic Geometry is when we look at what happens to geometric objects in very high dimensions. Concentration refers to the notion that almost all the volume of certain <img src="https://latex.codecogs.com/gif.latex?n">-dimensional regions cluster around an arbitrarily small <img src="https://latex.codecogs.com/gif.latex?\delta">-neighbourhood of an <img src="https://latex.codecogs.com/gif.latex?(n-1)">-dimensional region. We discuss two examples:
     <ol>
     <li>The volume of an asymptotic <img src="https://latex.codecogs.com/gif.latex?n">-Cube concentrates on its intersection with an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}">-Sphere.
 </li>
-    <li>The area of an asymptotic <img src="https://latex.codecogs.com/gif.latex?\small{n}-Sphere"> concentrates on its equators</li>.
+    <li>The area of an asymptotic <img src="https://latex.codecogs.com/gif.latex?\small{n}">-Sphere concentrates on its equators</li>.
     </ol>
     <hr>
 </p>
@@ -29,7 +29,7 @@ A collection of code and visualisations related to the MATH40008 Poster Project 
 </details>
 
 <p align="justify">
-One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the <img src="https://latex.codecogs.com/gif.latex?n">-Cube concentrates on an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}">-Sphere. Formally we want to show that
+One of the main theorems we showcase in the poster is that in high dimensions almost all the volume of the <img src="https://latex.codecogs.com/gif.latex?n">-Cube concentrates on its intersection with an <img src="https://latex.codecogs.com/gif.latex?\small{(n-1)}">-Sphere with radius <img src="https://latex.codecogs.com/gif.latex?\sqrt{n/3}">. Formally we want to show that
   
 </p>  
 
