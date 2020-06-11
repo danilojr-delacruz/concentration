@@ -42,7 +42,7 @@ One of the main theorems we showcase in the poster is that in high dimensions al
 </p>
 
 <p align="justify">
-The main idea is that in high dimensional cubes we can think of a point's coordinates as independent and identically distributed (i.i.d) random variables. In order for a point to lie at an extremity these random variables must all cooperate in the same direction. This is unlikely and the Law of Large Number stipulates that for large <img src="https://latex.codecogs.com/gif.latex?n"> this is impossible. Instead, the collective effort of these random variables will reflect their average. Geometrically speaking, this means points must exist a certain distance from the origin (a sphere in high dimensions). For more details see the poster and the proofs folder in this repository.
+The main idea is that in high dimensional cubes we can think of a point's coordinates as independent and identically distributed (i.i.d) random variables. In order for a point to lie at an extremity these random variables must all cooperate in the same direction. This is unlikely and the Law of Large Numbers stipulates that for large <img src="https://latex.codecogs.com/gif.latex?n"> this is impossible. Instead, the collective effort of these random variables will reflect their average. Geometrically speaking, this means points must exist a certain distance from the origin (a sphere in high dimensions). For more details see the poster and the proofs folder in this repository.
 </p>
 
 
