@@ -1,5 +1,5 @@
 # Concentration Phenomena in Asymptotic Geometry
-A collection of code and visualisations related to the MATH40008 Poster Project on Concentration of Volume. 
+A collection of code and visualisations related to the MATH40008 Poster Project on Concentration Phenomena in Asymptotic Geometry. 
 
 <details>
 <summary><b>What is MATH40008?</b></summary>
@@ -20,7 +20,7 @@ One of the main theorems we showcase in the poster is that in high dimensions al
   <img src="https://latex.codecogs.com/gif.latex?\forall&space;\varepsilon&space;>&space;0,&space;\,&space;\mathrm{Vol}\left(&space;U_{n,\varepsilon}\cap[-1,1]^n\right)\rightarrow&space;\mathrm{Vol}([-1,1]^n)">
   <br>
   <br>
-  <img src="https://latex.codecogs.com/gif.latex?U_{n,\varepsilon}&space;:=&space;\left\{x:&space;(1-\varepsilon)\sqrt{n/3}<\|x\|<(1&plus;\varepsilon)\sqrt{n/3}\right\}"> 
+  <img src="https://latex.codecogs.com/gif.latex?U_{n,\varepsilon}&space;:=&space;\left\{x\in\mathbb{R}^n:&space;(1-\varepsilon)\sqrt{n/3}<\|x\|<(1&plus;\varepsilon)\sqrt{n/3}\right\}"> 
   
 </p>
 
